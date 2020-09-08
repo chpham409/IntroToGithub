@@ -11,3 +11,8 @@
 - Lindsey Lopez
   - Email: snapitlindsey@gmail.com
   - github: carlosantos11
+
+- Charlie Pham
+  - phambo40920@gmail.com
+  - chpham409
+  
